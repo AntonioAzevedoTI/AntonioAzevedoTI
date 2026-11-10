@@ -17,13 +17,11 @@ Ao longo da minha trajétoria profissional desenvolvi soluções em Microsoft Ex
 Neste perfil compartilho alguns projetos e estudos para demonstrar minha forma de trabalhar.
 
 ## Onde me encontrar<br>
-Se desejar conhecer mais sobre minhas trajetórias profissionais, acesse meu perfil do Linkedin.
+Se desejar conhecer mais sobre minhas trajetórias profissionais, acesse meu perfil do Linkedin.<br><br>
 <a href="https://www.linkedin.com/in/antonio-azevedo-analista-de-suporte/" target="_blank">
-  <img src="C:\Projetos\Perfil Github/logolinkedinper.png" alt="Linkedin Antônio Azevedo"height="35">
+  <img src="logolinkedinper.png" alt="Linkedin Antônio Azevedo" height="35">
 </a>
-<br>
-🌐 https://www.linkedin.com/in/antonio-azevedo-analista-de-suporte/
-<br>
+
 ## Projetos em Destaque<br>
 
 ### ⚙️ Sistema de Controle de Estoque<br>
