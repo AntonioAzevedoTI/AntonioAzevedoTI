@@ -22,6 +22,11 @@ Se desejar conhecer mais sobre minhas trajetórias profissionais, acesse meu per
   <img src="logolinkedinper.png" alt="Linkedin Antônio Azevedo" height="35">
 </a>
 
+## Tecnologias<br>
+
+  <img src="LogoExcelPer.png" alt="Microsoft Excel" height="35"> <img src="LogoPowerPer.png" alt="Microsoft Power BI" height="35">
+
+
 ## Projetos em Destaque<br>
 
 ### ⚙️ Sistema de Controle de Estoque<br>
